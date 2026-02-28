@@ -1,0 +1,28 @@
+FROM: Ahmed Karim <a.karim@cyberleap.io>
+TO: Sarah Chen <s.chen@cyberleap.io>
+SUBJECT: [DRAFT — NOT SENT] Concerns about production config management
+
+Sarah,
+
+I wanted to flag something before I leave. The internal
+configuration management system still has the issues I
+reported in SEC-2024-091. Specifically:
+
+- The production credentials are stored alongside the
+  deployment configs in the internal repository
+- Access controls haven't been tightened despite my
+  multiple requests
+- The audit trail on config changes is incomplete
+
+I've made a backup of the relevant configuration in case
+it's needed for the investigation I believe will eventually
+happen. It's stored using our standard internal tooling.
+
+I know this might seem paranoid, but given what I've seen
+over the past few months, I think it's prudent.
+
+Please look into this when you get a chance. The evidence
+is there if you know where to look — you just need to
+check what's unreachable.
+
+— Ahmed

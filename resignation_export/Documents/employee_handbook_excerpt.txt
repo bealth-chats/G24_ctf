@@ -1,0 +1,28 @@
+CyberLeap Employee Handbook — Security Policy Extract
+Version 4.2 | Last Updated: August 2024
+
+Section 7: Information Security
+
+7.1 Acceptable Use
+All employees must use company resources solely for authorized
+business purposes. Personal use of company systems is permitted
+to a reasonable extent but must not compromise security.
+
+7.2 Data Classification
+- PUBLIC: Marketing materials, public product info
+- INTERNAL: Business documents, internal communications
+- CONFIDENTIAL: Client data, financial records, credentials
+- RESTRICTED: Cryptographic keys, master credentials
+
+7.3 Incident Reporting
+All suspected security incidents must be reported to the SOC
+within 4 hours of discovery via the incident portal or by
+emailing soc@cyberleap.io.
+
+7.4 Clean Desk Policy
+Employees must secure sensitive documents when leaving their
+workstation. Screens must be locked after 5 minutes of inactivity.
+
+7.5 Departure Procedures
+Upon resignation or termination, all company data must be
+returned and access credentials revoked within 24 hours.

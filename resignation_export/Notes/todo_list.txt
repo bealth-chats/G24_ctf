@@ -1,0 +1,12 @@
+Ahmed's TODO — Week of Oct 28
+
+[x] Finish vulnerability triage for staging
+[x] Update scanner with structured logging
+[x] Rotate API gateway credentials
+[ ] Write handoff documentation <— URGENT
+[ ] Back up internal configuration
+[ ] Submit final expense report
+[ ] Return hardware to IT
+[x] Clear personal files from workstation
+[ ] Transfer project ownership for client PoC
+[x] Archive email correspondence
